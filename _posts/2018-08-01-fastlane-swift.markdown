@@ -49,4 +49,4 @@ If you want to accept command-line arguments, you can do it by receving a dictio
 
 For me it's been easy to get everything working with fastlane Swift and of course everything is quite natural writing the configuration with the same language you are using to develop the app. However, I'm not sure if I would suggest to use the Swift version in complex projects, as there are much more documentation and developer Q&A for the standard version right now, so it's easier to get stuck if you find something problematic with the Swift wrapper. Also, in some companies where this type of automation work is done by DevOps people, they may prefer using a script language instead of Swift.
 
-Anyway, it's great to be able to use a language like Swift also for this type of tasks and I think it's worth it to give it a try if you are developing a Swift app for iOS._
+Anyway, it's great to be able to use a language like Swift also for this type of tasks and I think it's worth it to give it a try if you are developing a Swift app for iOS.
