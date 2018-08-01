@@ -35,7 +35,7 @@ fastlane yourlane
 
 Generating a build and uploading it to Testflight looks as simpler as this
 
-![basiclane.png](basiclane.png)
+![basiclane.png](assets/2018-08-01/basiclane.png)
 
 In our case, we are using [match](https://docs.fastlane.tools/actions/match/) to sign our app, but you can use your preferred way to do it.
 
@@ -43,7 +43,7 @@ Most of the methods of fastlane.swift have loads of optional parameters to repre
 
 If you want to accept command-line arguments, you can do it by receving a dictionary in your lane method like this
 
-![lanewithoptions.png](lanewithoptions.png)
+![lanewithoptions.png](assets/2018-08-01/lanewithoptions.png)
 
 ### Conclusion
 
