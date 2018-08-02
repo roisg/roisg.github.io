@@ -12,6 +12,7 @@ published: true
 
       <div class="entry">
         {{ post.excerpt }}
+        <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a>
       </div>
 
     </article>
