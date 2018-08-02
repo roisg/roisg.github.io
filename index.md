@@ -1,8 +1,6 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+published: true
 ---
 
 <div class="posts">
@@ -10,6 +8,7 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2>{{post.date}}</h2>
 
       <div class="entry">
         {{ post.content }}
