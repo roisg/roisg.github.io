@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Starting over
 date: '2018-07-17 12:18:08 +0200'
 categories: personal
 published: true
