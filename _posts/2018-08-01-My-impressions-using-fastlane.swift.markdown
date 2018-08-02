@@ -4,6 +4,8 @@ layout: default
 date: '2018-08-01 16:25:00 +0200'
 categories: personal
 ---
+# My impressions using fastlane.swift
+
 One of my tasks during my first weeks at [Wisk](https://www.wisksolutions.com) has been to be able to generate builds of our iOS app automatically, a first step for a future continuous integration scheme.
 
 I used fastlane in the past so it was clear to me that it'll be my first option. But what I didn't know if that fastlane has now a beta project called [fastlane.swift](https://docs.fastlane.tools/getting-started/ios/fastlane-swift/). 
