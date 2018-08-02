@@ -4,7 +4,7 @@ date: '2018-07-17 12:18:08 +0200'
 categories: personal
 published: true
 ---
-# Starting over
+# [Starting over]({{ site.url }}{% link _posts/2018-07-17-starting-over.markdown %})
 
 Five months ago, after almost nine years working as CTO at Mobbeel, I decided to leave the company I founded with another four friends. It was a hard decision but I felt it as the right one. For several reasons I needed a change and that was the right moment to do it, with the company in a good position and with great people ready to take on my responsabilities.
 <!--more-->
