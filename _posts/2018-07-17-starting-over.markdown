@@ -1,11 +1,12 @@
 ---
 layout: default
-title:  "Starting over"
-date:   2018-07-17 12:18:08 +0200
+title: Starting over
+date: '2018-07-17 12:18:08 +0200'
 categories: personal
+published: true
 ---
 Five months ago, after almost nine years working as CTO at Mobbeel, I decided to leave the company I founded with another four friends. It was a hard decision but I felt it as the right one. For several reasons I needed a change and that was the right moment to do it, with the company in a good position and with great people ready to take on my responsabilities.
-
+<!--more-->
 I decided to get some time off just to relax, enjoy my free time and feel again how is life outside a tech startup. It was a great time, being able to live slowly, walk, meditate, get back to gym and also to have more time for friends and family. I also spent some time learning a bit of Swift, Kotlin and React Native, but just a few hours each to learn the basics, as I really need a break time.
 
 On June I decided to start taking a look at the job market, to have an idea of what's out there for a developer with my profile. The only thing I knew for sure was that I needed a job with flexibility, as I have got used to it last years and going back to a fixed schedule would have been hard. After some interesting interviews, it was clear to me that the best opportunities would be working as a freelance for international companies.
