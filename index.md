@@ -8,7 +8,7 @@ published: true
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <p>Written on {{ post.date | date: '%B %d, %Y' }}</p>
+      <h4>Written on {{ post.date | date: '%B %d, %Y' }}</h4>
 
       <div class="entry">
         {{ post.content }}
