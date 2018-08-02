@@ -11,7 +11,7 @@ published: true
       <h4>Written on {{ post.date | date: '%B %d, %Y' }}</h4>
 
       <div class="entry">
-        {{ post.content }}
+        {{ post.excerpt }}
       </div>
 
     </article>
