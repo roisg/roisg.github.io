@@ -6,7 +6,10 @@ published: true
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      <h4>Written on {{ post.date | date: '%B %d, %Y' }}</h4>
+      
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	  <h4>Written on {{ post.date | date: '%B %d, %Y' }}</h4>
+      
       <div class="entry">
         {{ post.excerpt }}
         <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a>
