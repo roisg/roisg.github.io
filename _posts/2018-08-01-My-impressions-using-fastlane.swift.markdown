@@ -50,7 +50,7 @@ Most of the methods of fastlane.swift have loads of optional parameters to repre
 
 If you want to accept command-line arguments, you can do it by receving a dictionary in your lane method like this
 
-![lanewithoptions.png](assets/2018-08-01/lane_with_options.png)
+![lanewithoptions.png]({{site.url}}/assets/2018-08-01/lane_with_options.png)
 
 ## Conclusion
 
