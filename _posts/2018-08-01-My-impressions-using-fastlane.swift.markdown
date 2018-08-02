@@ -42,7 +42,7 @@ fastlane yourlane
 
 Generating a build and uploading it to Testflight looks as simpler as this
 
-![basiclane.png](assets/2018-08-01/basic_lane.png)
+![basiclane.png]({{site.url}}/assets/2018-08-01/basic_lane.png)
 
 In our case, we are using [match](https://docs.fastlane.tools/actions/match/) to sign our app, but you can use your preferred way to do it.
 
