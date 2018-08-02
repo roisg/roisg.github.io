@@ -6,7 +6,9 @@ categories: personal
 ---
 One of my tasks during my first weeks at [Wisk](https://www.wisksolutions.com) has been to be able to generate builds of our iOS app automatically, a first step for a future continuous integration scheme.
 
-I used fastlane in the past so it was clear to me that it'll be my first option. But what I didn't know if that fastlane has now a beta project called [fastlane.swift](https://docs.fastlane.tools/getting-started/ios/fastlane-swift/). Fastlane.swift is a wrapper over fastlane to allow developers write their fastlane configuration using Swift instead of Ruby scripts.
+I used fastlane in the past so it was clear to me that it'll be my first option. But what I didn't know if that fastlane has now a beta project called [fastlane.swift](https://docs.fastlane.tools/getting-started/ios/fastlane-swift/). 
+<!--more-->
+Fastlane.swift is a wrapper over fastlane to allow developers write their fastlane configuration using Swift instead of Ruby scripts.
 
 For me that was just perfect. The company uses Swift not only for their iOS app but also for the back-end services, so being able to configure fastlane using the same language would be a total win. The documentation on the fastlane page is not so extense regarding the Swift wrapper, but there are two things to have in mind: it's just a wrapper, so things are going to work the same way as with the Ruby scripts and names of the functions and parameters will be equivalent; and as you will be editing a Swift project with XCode, you'll have autocompletion to guide you.
 
